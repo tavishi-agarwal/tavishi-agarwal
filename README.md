@@ -19,5 +19,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tavishi-agarwal/tavishi-agarwal/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tavishi-agarwal/tavishi-agarwal/output/github-snake.svg" />
 </picture>
-
+![Pacman](https://raw.githubusercontent.com/tavishi-agarwal/tavishi-agarwal/output/pacman-contribution-graph.svg) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
