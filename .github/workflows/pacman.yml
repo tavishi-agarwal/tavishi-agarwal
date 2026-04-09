@@ -1,7 +1,7 @@
-yaml
+
 name: Generate Pac-Man Contribution Graph
 
-on:
+"on":
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
