@@ -86,10 +86,10 @@ mood: semicolons optional, stars mandatory
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tavishi-agarwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavishi-agarwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="42%" />
+<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="42%" />
 
-<img src="https://streak-stats.demolab.com/?user=tavishi-agarwal&theme=tokyonight&hide_border=true&background=1a1b27" width="60%" />
+<img src="./profile/streak.svg" width="60%" />
 
 </div>
 
