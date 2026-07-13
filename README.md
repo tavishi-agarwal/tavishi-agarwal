@@ -105,7 +105,6 @@ mood: semicolons optional, stars mandatory
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tavishi-agarwal/tavishi-agarwal/output/pacman-contribution-graph.svg" />
 </picture>
 
-<sub>⚠️ needs a one-time setup — see note below</sub>
 
 </div>
 
